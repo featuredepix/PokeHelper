@@ -1,5 +1,6 @@
 # PokeHelper
 An easy to use GUI for viewing your Pokemon GO inventory on your desktop.
+Coming in at less than 100 lines, this Pokemon GO inventory app is easy and lightweight, and due to it's minimal interaction with the Pokemon GO servers you are extremely less likely to get banned then most Pokemon GO bots.
 
 ## Requirements
 * Python 2.7
